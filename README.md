@@ -35,12 +35,7 @@ Early Bird is an Android App in which Clocky(ML Model) is deployed.
 
 #
 
-## Model Architecture
-
-    .
-    ├── TFLite Model     --- MobileNetV2 is converted to TFlite
-    │
-    └── Google ML Kit    
+  
     
 ## Features
  - Clean and User-Friendly UI
@@ -73,12 +68,7 @@ Early Bird is an Android App in which Clocky(ML Model) is deployed.
 ## Machine Learning Model (Clocky)
 Clocky is a Deep Learning Computer Vision Model for detection of Toothbrush. It is made with MobileNetV2 Architecture and Caffe Model.
 
-## Model Architecture
-
-    .
-    ├── MobileNetV2      
-    │
-    └── Caffe Model      
+ 
 
 ### Plots
 <div style="display:flex;">
@@ -88,9 +78,9 @@ Clocky is a Deep Learning Computer Vision Model for detection of Toothbrush. It 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## How to Contribute to EarlyBird?
-To contribute to Clocky (The DL Computer Vision Model) [Click Here](https://github.com/kunal-mahatha/Early-Bird-Private/tree/main/ml-model)
+This is **NOT** an Open Source Project, but still you can contribute by directly contacting us :
 
-To contribute to EarlyBird App [Click Here](https://github.com/kunal-mahatha/Early-Bird-Private/tree/main/android-app)
+Email - underdog2developer@gmail.com
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
