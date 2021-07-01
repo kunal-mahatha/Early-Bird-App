@@ -104,5 +104,5 @@ To contribute to EarlyBird App [Click Here](https://github.com/kunal-mahatha/Ear
  ---
 
 <div style="display:flex;">
-<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/Author.gif?raw=true" width="100%">
+<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/Author.gif?raw=true" width="100%">
 </div>
