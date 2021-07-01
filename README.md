@@ -1,10 +1,10 @@
 # Early Bird
 
 <div style="display:flex;">
-<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/Early-Bird-Banner.gif?raw=true" width="100%">
+<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/Early-Bird-Banner.gif?raw=true" width="100%">
 </div>
 
-<img align="right" width="150" height="150" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/logo2.png?raw=true">
+<img align="right" width="150" height="150" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/logo2.png?raw=true">
 
 
 Early Bird is a smart A.I. powered Alarm Clock App which will stop once the user Start Brushing. It brings pure alarm experience to you by combining powerful features and clean interface. The interface of our Alarm clock is designed to be simple, intuitive and efficient. By removing what is not essential, and adding the A.I. mode, we tried every possible way to wake you up.
@@ -25,12 +25,12 @@ Early Bird is an Android App in which Clocky(ML Model) is deployed.
 # 
 
 <div style="display:flex;">
-<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/1-min.png?raw=true" width="16%">
-<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/2-min.png?raw=true" width="16%">
-<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/3-min.png?raw=true" width="16%">
-<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/4-min.png?raw=true" width="16%">
-<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/5-min.png?raw=true" width="16%">
-<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/6-min.png?raw=true" width="16%">
+<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/1-min.png?raw=true" width="16%">
+<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/2-min.png?raw=true" width="16%">
+<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/3-min.png?raw=true" width="16%">
+<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/4-min.png?raw=true" width="16%">
+<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/5-min.png?raw=true" width="16%">
+<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/6-min.png?raw=true" width="16%">
 </div>
 
 #
@@ -82,15 +82,15 @@ Clocky is a Deep Learning Computer Vision Model for detection of Toothbrush. It 
 
 ### Plots
 <div style="display:flex;">
-<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird/blob/main/EarlyBird-snaps/ebplot.jpg?raw=true" width="100%">
+<img alt="App image" src="https://github.com/kunal-mahatha/Early-Bird-App/blob/main/EarlyBird-snaps/ebplot.jpg?raw=true" width="100%">
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## How to Contribute to EarlyBird?
-To contribute to Clocky (The DL Computer Vision Model) [Click Here](https://github.com/kunal-mahatha/Early-Bird/tree/main/ml-model)
+To contribute to Clocky (The DL Computer Vision Model) [Click Here](https://github.com/kunal-mahatha/Early-Bird-App/tree/main/ml-model)
 
-To contribute to EarlyBird App [Click Here](https://github.com/kunal-mahatha/Early-Bird/tree/main/android-app)
+To contribute to EarlyBird App [Click Here](https://github.com/kunal-mahatha/Early-Bird-App/tree/main/android-app)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
